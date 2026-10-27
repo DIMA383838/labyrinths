@@ -1,0 +1,5 @@
+tests/mazes/mazes3_check_maze_generation.txt
+###
+# #
+###
+===EOF===

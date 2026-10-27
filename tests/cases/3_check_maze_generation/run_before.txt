@@ -1,0 +1,4 @@
+mkdir -p tests/tmp/
+mkdir -p tests/mazes/
+echo -e "###\n# #\n###" > tests/mazes/mazes3_check_maze_generation.txt
+echo -e "###\n# #\n###" > tests/tmp/mazes3_check_maze_generation.txt

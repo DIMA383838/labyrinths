@@ -1,0 +1,5 @@
+Generating maze with algorithm: dfs
+Maze generated and saved to: mazes/mazes3_check_maze_generation.txt
+###
+
+###
